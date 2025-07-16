@@ -57,7 +57,7 @@ Patrick Attankurugu is a Senior AI/ML Engineer and Co-founder of SEMA Technologi
 
 - **Email**: attankurugupatrick@gmail.com
 - **LinkedIn**: [linkedin.com/in/patrickattankurugu400](https://linkedin.com/in/patrickattankurugu400)
-- **GitHub**: [github.com/PatrickAttankrugu](https://github.com/PatrickAttankrugu)
+- **GitHub**: [github.com/PatrickAttankurugu](https://github.com/PatrickAttankurugu)
 - **Twitter**: [@Pat_Attankurugu](https://twitter.com/Pat_Attankurugu)
 
 ## 🌍 Mission
